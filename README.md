@@ -2,7 +2,7 @@
 
 > A powerful, lightweight, and secure client-side document management system that runs entirely in your browser.
 
-![Personal Document Manager](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+![Personal Document Manager](https://img.shields.io/badge/Version-10.1-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Browser Support](https://img.shields.io/badge/Browser-Chrome%20|%20Firefox%20|%20Safari%20|%20Edge-orange.svg)
 ![File Size](https://img.shields.io/badge/Size-Single%20HTML%20File-purple.svg)
